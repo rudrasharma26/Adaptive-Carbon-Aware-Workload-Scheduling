@@ -2,7 +2,7 @@
  * Backend Configuration
  * Keep the backend URL in ONE configuration constant so it can easily be changed later.
  */
-export const BACKEND_URL = '/api';
+export const BACKEND_URL = 'https://adaptive-carbon-aware-workload-scheduling.onrender.com';
 
 /**
  * Storage key for optional URL override if running in a different container/host.
